@@ -10,6 +10,7 @@ This project is a RESTful API designed to manage data related to patients and ps
 
 - **Express.js**: A minimal and flexible Node.js web application framework that provides a robust set of features to develop web and mobile applications. We chose Express for its simplicity, flexibility, and large ecosystem of middleware.
 - **MySQL**: A reliable and widely-used relational database management system. MySQL was chosen for its performance, reliability, and ease of use.
+- **Multer**: Middleware for handling file uploads.
 
 ## API Endpoints
 
