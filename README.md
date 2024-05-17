@@ -17,8 +17,8 @@ This project is a RESTful API designed to manage data related to patients and ps
 ### Patients
 
 - **Endpoint**: `/api/v1/patients`
-  - **Method**: GET
-  - **Description**: Retrieves a list of all patients.
+  - **Method**: Post
+  - **Description**: A new patient registration.
 
 ### Psychiatrists
 
