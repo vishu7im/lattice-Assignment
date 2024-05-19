@@ -40,6 +40,7 @@ You can explore and test the API endpoints using Postman. Here is the Postman li
    DB_HOST=""
    DB_USER=""
    DB_PASS=""
+   DB_Database=""
 
 4. Run the application using `npm start`.
 
