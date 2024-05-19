@@ -37,6 +37,10 @@ You can explore and test the API endpoints using Postman. Here is the Postman li
 1. Clone the repository.
 2. Install dependencies using `npm install`.
 3. Set up your MySQL database and configure the connection settings in the `.env` file.
+   DB_HOST=""
+   DB_USER=""
+   DB_PASS=""
+
 4. Run the application using `npm start`.
 
 ---
